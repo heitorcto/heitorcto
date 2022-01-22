@@ -1,7 +1,7 @@
 ## Olá, sou Heitor!
 
 - ✨ Hoje sou desenvolvedor Júnior, trabalho com back-end
-- 🎓 Estuando PHP PDO, MySql, JS, CSS, HTML.
+- 🎓 Estudando PHP PDO, MySql, JS, CSS, HTML.
 
 <div align="center">
   <a href="https://github.com/heitorcto">
