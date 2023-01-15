@@ -3,12 +3,6 @@
 - ✨ Hoje sou desenvolvedor, trabalho com back-end
 - 🎓 Desenvolvedor na linguagem PHP, estudando JAVA.
 
-<div align="center">
-  <a href="https://github.com/heitorcto">
-  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=heitorcto&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorcto&layout=compact&langs_count=7&theme=blueberry"/>
-</div>
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="Heitor-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Heitor-PHP" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
