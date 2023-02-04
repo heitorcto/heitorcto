@@ -2,7 +2,7 @@
 
 #### - Desenvolvedor Back-end PHP | LARAVEL | API
 
-##### Ser desenvolvedor não é codar, é entender o que se está codando, otimizar seus serviços e dar um passo de cada vez para a melhoria da sua aplicação, aceite as mudanças, elas vieram para lhe ajudar.
+##### Ser desenvolvedor não é codar, é entender o que se está codando, otimizar seus serviços e dar um passo de cada vez para a melhoria da sua aplicação e sempre aceite as mudanças, sair da sua zona de conforto é o primeiro passo para aprender o que você quiser.
 
 ##### "Inteligência é a habilidade de evitar fazer o trabalho, e mesmo assim conseguir ter o trabalho realizado." ~Linus Torvalds
 
