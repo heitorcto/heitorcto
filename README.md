@@ -2,7 +2,7 @@
 
 #### - Desenvolvedor Back-end PHP | LARAVEL | API
 
-##### Conhecimento
+##### Inteligência é a habilidade de evitar fazer o trabalho, e mesmo assim conseguir ter o trabalho realizado. ~Linus Torvalds
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Heitor-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
