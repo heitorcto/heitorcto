@@ -1,6 +1,6 @@
 ## Olá, sou Heitor!
 
-#### - Desenvolvedor Back-end PHP | LARAVEL | NEXT | API
+#### - Desenvolvedor Pleno - Back-end PHP | LARAVEL | NEXT | API
 
 ##### Ser desenvolvedor não é codar, é entender o que se está codando, otimizar seus serviços e dar um passo de cada vez para a melhoria da sua aplicação e sempre estar de mente aberta frente as mudanças.
 
