@@ -1,4 +1,4 @@
-###👋 Hello there! Welcome to my GitHub profile!
+👋 Hello there! Welcome to my GitHub profile!
 
 I'm Heitor, a passionate web developer with expertise in PHP, Laravel, and Livewire. 🚀
 
